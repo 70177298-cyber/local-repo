@@ -1,4 +1,8 @@
-p {
+h1 {
     font-size: 16px;
     color: red;
 }
+P {
+    font-size: 14px;
+    color: blue;    
+} 
